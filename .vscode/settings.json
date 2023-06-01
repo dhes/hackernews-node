@@ -3,6 +3,7 @@
 		"autoincrement",
 		"datasource",
 		"Hackernews",
-		"howtographql"
+		"howtographql",
+		"signup"
 	]
 }
